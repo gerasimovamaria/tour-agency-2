@@ -1,0 +1,1 @@
+insert into discount (amount, is_percent, tour_id, user_id) values (5, true, 4, 1);
